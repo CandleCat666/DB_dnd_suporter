@@ -1,4 +1,4 @@
-# DB_dnd_suporter
+# DB_dnd_supporter
 
 项目框架搭建
 | 功能项               | 进展阶段 | 说明                     |
