@@ -1,0 +1,11 @@
+[
+  {
+    "name": "精灵",
+    "desc": "",
+    "speed": 30,
+    "size": "Medium",
+    "darkvision": 0,
+    "languages": "12",
+    "traits": "12"
+  }
+]
